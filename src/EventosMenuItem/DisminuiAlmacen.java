@@ -1,10 +1,12 @@
-package controlador;
+package EventosMenuItem;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JOptionPane;
 
+import controlador.Controlador;
+import controlador.ParaUI;
 import modelo.Libro;
 
 public class DisminuiAlmacen implements ActionListener {

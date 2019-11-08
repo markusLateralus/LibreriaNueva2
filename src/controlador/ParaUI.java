@@ -1,5 +1,6 @@
 	package controlador;
 import EventosMenuItem.CambiarEstadoPanel;
+import EventosMenuItem.DisminuiAlmacen;
 import EventosMenuItem.GuardarCambios;
 import EventosMenuItem.ModificarLibro;
 import EventosMenuItem.VerListaLibro;
