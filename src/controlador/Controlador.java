@@ -16,6 +16,7 @@ public class Controlador {
 		
 		this.logica = new Logica();
 
+		
 	}
 	public void altaLibro(String titulo, String ISBN, int totalPaginas, double precio, String autor, Tema tema, Edicion edicion,
 			Formato formato, int contador) {
